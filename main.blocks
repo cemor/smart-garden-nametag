@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ctAZbE]@.W#5@nUEm,.-" x="20" y="20"/><block type="device_forever" id="B0NC.1_^;}lyH#q6?Z+l" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="d!$/JNMzJ(8x]~:{IjDr" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="={cex*=+o)N4+3d9XLDU"><value name="text"><shadow type="text" id="`v1@yX=Y#.5{o9Mla;h."><field name="TEXT">My Garden Name</field></shadow></value></block></statement></block></xml>
